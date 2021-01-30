@@ -2,7 +2,7 @@
 title: About
 layout: about.njk
 name: About
-image: "/images/me.jpeg"
+image: ''
 
 ---
 Playing around with this thing!
