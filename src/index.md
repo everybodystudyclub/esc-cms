@@ -25,12 +25,12 @@ Self-studying is really hard. There's an entire sea of material out there, but i
 
 As a quarantine pastime, I started studying Korean again. It's been going shockingly well, and I think it's because I've stumbled upon some really great techniques from this community around self-studying.
 
-Language learning best practices have changed a bit, at least since I last studied seriously. The idea that one has to be physically "immersed" in a country to become fluent in the language is now understood to be false, and instead there is an emphasis on **slow and steady** learning. Just put in the time. Quantity over quality.
+Language learning best practices have changed a bit, at least since I last studied seriously. The idea that one has to be physically "immersed" in a country to become fluent in the language is now understood to be false, and instead there is an emphasis on **slow and steady** learning. Just put in the time. Quantity over quality. A marathon, not a sprint.
 
 There is also an emphasis on **small community** within the larger community. Language partners, community tutors, classes of 5-10 people are all strongly encouraged. (You never see 100-person lecture sizes for a Spanish class.)
 
-As a result, I've been studying Korean consistently since April 2020, keeping up with it even with a demanding work schedule. This is easily the longest I've ever stuck with a learning endeavor outside of school or work demands. Surely quarantine has something to do with it, but I don't actually think it's the main factor. I think it's the approach.
+As a result, I've been studying Korean consistently since April 2020, keeping up with it even with a very demanding job. This is easily the longest I've ever stuck with a learning endeavor outside of school or work demands. Surely quarantine has something to do with it, but I don't actually think it's the main factor. I think it's the approach.
 
-I recently left my last job and I've got a few months of free time before my next gig. I'd love to spend of that time tinkering with online learning, and see whether I can incorporate some of these techniques (and others!) in some sort of class-like offering that teaches people how to build things on the web. It might work, it might not. But I want to try it out.
+I recently left my very demanding job and I've got a few months of free time before my next gig. I'd love to spend of that time tinkering with online learning, and see whether I can incorporate some of these techniques (and others!) in some sort of class-like offering that teaches people how to build things on the web. It might work, it might not. Either way, I want to try it out.
 
-If that sounds interesting to you in any way, please [fill out the interest form](https://comingsoon)! Filling out the form in no way commits you to anything; it'll just help me figure out my offering.
+If that sounds at all interesting to you, even just as a watcher, please [fill out the interest form](https://comingsoon)! Filling out the form in no way commits you to anything.
