@@ -8,13 +8,13 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Blog",
-      "url": "/blog",
+      "text": "about",
+      "url": "/about",
       "external": false
     },
     {
-      "text": "About",
-      "url": "/about",
+      "text": "updates",
+      "url": "/blog",
       "external": false
     }
   ],

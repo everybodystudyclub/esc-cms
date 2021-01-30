@@ -6,6 +6,7 @@ html {
 
 body {
   background-color: var(--background);
+  text-underline-position: under;
 }
 
 body::-webkit-scrollbar {
@@ -93,7 +94,7 @@ ul {
 
 b,
 strong {
-  font-weight: 500;
+  font-weight: 700;
 }
 
 table {
@@ -117,7 +118,7 @@ th {
 }
 
 th {
-  font-weight: 500;
+  font-weight: 700;
 }
 
 td:only-child {
@@ -184,7 +185,7 @@ kbd {
 
 pre,
 code {
-  font-family: 'Inconsolata', monospace;
+  font-family: "Inconsolata", monospace;
 }
 
 pre code {

@@ -1,8 +1,30 @@
 ---
 layout: home
-title: "Eleventy Duo"
+title: "esc"
 ---
 
-# Hello World
+# Everybody Study Club
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+Hello, it's your friend [vrk](https://github.com/vrk). I want to teach people how to build things on the web.
+
+I taught a [web programming course](https://github.com/yayinternet/cs193x-course) a few years ago, and for a while I've wanted to make a free online version of it. I might finally do that this year, and if I do, I want to experiment with the format of online learning.
+
+Would you be interested in taking such a class? Want to help out? Or just want to hear updates?
+
+✨ [Fill out my interest form](https://comingsoon)! ✨
+
+I'd love to hear from you! You can expect to hear from me in Feb or March 2021.
+
+---
+
+## A little more
+
+Self-studying is really hard. There's an entire sea of material out there, but it's well-known that e.g. MOOCs have a [poor completion rate](https://www.forbes.com/sites/dereknewton/2020/06/21/the-depressing-and-disheartening-news-about-moocs/?sh=3c7981cb76ed). It's hard to find the time and it's hard to stay motivated.
+
+Thanks to quarantine, I recently started studying Korean again. I'm inspired by how effective self-studying can be in this community. The idea that one has to be physically "immersed" in a country to become fluent in the language is now understood to be false, and instead there is an emphasis on **slow and steady** learning. Just put in the time. Quantity over quality.
+
+There is also an emphasis on **small community** within the larger community. Language partners, community tutors, classes of 5-10 people are all strongly encouraged. (You never see 100-person lecture sizes for a Spanish class.)
+
+I recently left my last job and I've got a few months of free time before my next gig. I'd love to spend of that time tinkering with online learning, and see whether I can incorporate some of these techniques (and others!) in some sort of class-like offering that teaches people how to build things on the web.
+
+If that sounds interesting to you in any way, please [fill out the interest form](https://comingsoon)! Filling out the form in no way commits you to anything; it'll just help me figure out my offering.

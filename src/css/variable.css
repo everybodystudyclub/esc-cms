@@ -1,5 +1,6 @@
 :root {
-  --accent: #0074d9;
+  --accent: #818cf8;
   --background: #fffffe;
   --color: rgb(41, 41, 41);
+  --pageWidth: 60rem;
 }

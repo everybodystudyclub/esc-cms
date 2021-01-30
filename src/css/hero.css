@@ -9,7 +9,7 @@
 
 .hero p {
   font-size: var(--text-2xl);
-  margin-top: 1rem;
+  margin: 2.5rem 0;
 }
 
 .hero__social-links {
@@ -43,5 +43,4 @@
 .hero__skip-link svg {
   transition: opacity 0.2s ease-in-out;
   stroke: rgb(0, 0, 0, 0.4);
-  /* color: rgb(41, 41, 41); */
 }
