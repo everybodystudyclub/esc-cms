@@ -7,7 +7,9 @@ title: "esc"
 
 Hello, it's your friend [vrk](https://github.com/vrk). I want to teach people how to build things on the web.
 
-I taught a [web programming course](https://github.com/yayinternet/cs193x-course) a few years ago, and for a while I've wanted to make a free online version of it. I might finally do that this year. If I do, I also want to tinker and experiment with the format of online learning, and see if there aren't ways we can improve upon the usual models.
+I taught a [web programming course](https://github.com/yayinternet/cs193x-course) a few years ago, and for a while I've wanted to make a free online version of it. This year I might finally do it.
+
+If I do, then I also want to tinker and experiment with the format of online learning. Few of the current models work well for anyone, so let's see if there aren't ways we can improve upon them.
 
 Would you be interested in taking my class or class-like thing? Want to help me with it? Or just want to hear updates?
 
