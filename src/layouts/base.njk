@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href={{ page.url | url | absoluteUrl(site.url) }}>
+    <link rel="canonical" href={{ page.url | url | absoluteurl(site.url) }}>
 
     {% bundledcss %}
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=ibm+plex+sans&display=swap" rel="stylesheet">
 
     <title>
       {{  title  | escape }}
@@ -46,7 +46,7 @@
     {% endif %}
     {% if socialImage %}
       <meta property="og:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
-      <meta name="twitter:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
+      <meta name="twitter:image" content="{{ socialimage | url | absoluteurl(site.url) }}"/>
     {% endif %}
 
   </head>
@@ -77,7 +77,7 @@
                   {% endif %}
 
                   <li class="nav-item">
-                    <a href="{{ item.url | url }}" {{ currentAttribute | safe }} {{ externalAttribute | safe }}>{{ item.text }}</a>
+                    <a href="{{ item.url | url }}" {{ currentattribute | safe }} {{ externalattribute | safe }}>{{ item.text }}</a>
                   </li>
                 {% endfor %}
               </ul>
@@ -105,7 +105,7 @@
                 {% endif %}
 
                 <li>
-                  <a href="{{ item.url | url }}" {{ externalAttribute | safe }} >{{ item.text }}</a>
+                  <a href="{{ item.url | url }}" {{ externalattribute | safe }} >{{ item.text }}</a>
                 </li>
               {% endfor %}
             {% endif %}
@@ -120,7 +120,7 @@
                 {% endif %}
 
                 <li>
-                  <a href="{{ item.url | url }}" {{ externalAttribute | safe }} >{{ item.text }}</a>
+                  <a href="{{ item.url | url }}" {{ externalattribute | safe }} >{{ item.text }}</a>
                 </li>
               {% endfor %}
             {% endif %}
@@ -128,10 +128,8 @@
 
           {% if site.showFooterAttribution %}
             <p class="footer__attribution">
-          Created by
-      <a href="https://twitter.com/yinkakun" target="_blank" rel="noopener">Yinka,</a>
-       Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty,</a>
-        Checkout <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">project's github repo </a>
+              Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty,</a>
+              <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">eleventy-duo</a> created by <a href="https://twitter.com/yinkakun" target="_blank" rel="noopener">Yinka,</a>
             </p>
           {% endif %}
 
