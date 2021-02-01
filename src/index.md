@@ -13,7 +13,7 @@ If I do, then I also want to tinker and experiment with the format of online lea
 
 Would you be interested in taking my class or class-like thing? Want to help me with it? Or just want to hear updates?
 
-✨ [Fill out my interest form](https://comingsoon)! ✨
+✨ [Fill out my interest form](https://forms.gle/TBnHtxim8517Q8jT9)! ✨
 
 I'd love to hear from you! You can expect to hear from me in Feb or March 2021.
 
@@ -21,11 +21,11 @@ I'd love to hear from you! You can expect to hear from me in Feb or March 2021.
 
 ## A little more
 
-Self-studying is really hard. There's an entire sea of material out there, but it's well-known that e.g. MOOCs have a [poor completion rate](https://www.forbes.com/sites/dereknewton/2020/06/21/the-depressing-and-disheartening-news-about-moocs/?sh=3c7981cb76ed). It's hard to find the time and it's hard to stay motivated.
+Self-studying is really hard. There's a sea of educational resources out there, but it's well-known that e.g. MOOCs have a [poor completion rate](https://www.forbes.com/sites/dereknewton/2020/06/21/the-depressing-and-disheartening-news-about-moocs/?sh=3c7981cb76ed). It's hard to find the time and it's hard to stay motivated.
 
-As a quarantine pastime, I started studying Korean again. It's been going shockingly well, and I think it's because I've stumbled upon some really great techniques from this community around self-studying.
+As a quarantine pastime, I started studying Korean again. It's been going surprisingly well, and I think it's because I've stumbled upon some really great self-studying techniques from this community.
 
-Language learning best practices have changed a bit, at least since I last studied seriously. The idea that one has to be physically "immersed" in a country to become fluent in the language is now understood to be false, and instead there is an emphasis on **slow and steady** learning. Just put in the time. Quantity over quality. A marathon, not a sprint.
+Language learning best practices have changed a bit, at least since I last studied seriously. The idea that one must be physically "immersed" in a country to become fluent in the language is now a bit out of date, and instead there is an emphasis on **slow and steady** learning.
 
 There is also an emphasis on **small community** within the larger community. Language partners, community tutors, classes of 5-10 people are all strongly encouraged. (You never see 100-person lecture sizes for a Spanish class.)
 
@@ -33,4 +33,4 @@ As a result, I've been studying Korean consistently since April 2020, keeping up
 
 I recently left my very demanding job and I've got a few months of free time before my next gig. I'd love to spend of that time tinkering with online learning, and see whether I can incorporate some of these techniques (and others!) in some sort of class-like offering that teaches people how to build things on the web. It might work, it might not. Either way, I want to try it out.
 
-If that sounds at all interesting to you, even just as a watcher, please [fill out the interest form](https://comingsoon)! Filling out the form in no way commits you to anything.
+If that sounds at all interesting to you, even just as a casual observer, please [fill out the interest form](https://forms.gle/TBnHtxim8517Q8jT9)! Filling out the form in no way commits you to anything.
