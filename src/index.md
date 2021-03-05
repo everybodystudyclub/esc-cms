@@ -5,8 +5,6 @@ title: "esc"
 
 # Everybody Study Club
 
-Hello, it's your friend [vrk](https://github.com/vrk). I want to tinker and experiment with the format of online learning.
-
 This is an experimental club for folks who are out of school but want to continue to learn, particularly through **side projects** and **independent study**.
 
 We're going to launch a virtual study club on Discord sometime in March 2021! _(...or maybe April, we'll see.)_
