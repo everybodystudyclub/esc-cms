@@ -9,7 +9,7 @@ Hello, it's your friend [vrk](https://github.com/vrk)! I'm creating a club for f
 
 We're going to launch an experimental virtual study club on Discord sometime in March 2021! _(...or maybe April, we'll see.)_
 
-Interested in joining? Want to help me run i? Or just want to hear updates?
+Interested in joining? Want to help me run it? Or just want to hear updates?
 
 ✨ [Fill out the interest form](https://forms.gle/TBnHtxim8517Q8jT9)! ✨
 
