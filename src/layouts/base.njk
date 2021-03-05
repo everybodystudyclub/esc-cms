@@ -31,7 +31,7 @@
       <meta name="twitter:creator" content="@{{ site.author.twitterHandle | replace('@', '') }}"/>
     {% endif %}
 
-    {% set desc = description %}
+    {% set desc = site.description %}
     {% if not desc %}
       {% set desc = content | striptags | truncate(140) %}
     {% endif %}
