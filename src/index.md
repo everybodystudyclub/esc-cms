@@ -7,9 +7,9 @@ title: "esc"
 
 Hello, it's your friend [vrk](https://github.com/vrk). I want to tinker and experiment with the format of online learning.
 
-This is an experimental club for folks who are out of school who want to get better at sticking to **side projects** and **independent study**. (At least, that's our current focus!)
+This is an experimental club for folks who are out of school but want to continue to learn, particularly through **side projects** and **independent study**.
 
-We're going to launch a virtual study club on Discord sometime in March 2021! _(...or maybe April)_
+We're going to launch a virtual study club on Discord sometime in March 2021! _(...or maybe April, we'll see.)_
 
 Interested in joining? Want to help me run i? Or just want to hear updates?
 
@@ -42,7 +42,7 @@ When I was a student, it was nice to do my homework in the drop-in tutoring cent
 
 When I was a TA working at a drop-in tutoring center, it was really fulfilling work that also required very little prep ahead of time. It was also low-pressure because I never worked alone, so if if I couldn't answer a student's question, I could always ask another tutor for help. On top of that, on slow days, I could use that time to do my own homework, or read a book, or chat with the other tutors.
 
-Based on the initial response to the esc interest form, about 63% of respondees find **Motivation** to be the most difficult part about self-studying and personal projects, followed by the **ability to ask people questions** (32% of respondees).
+Based on the initial response to the esc interest form, most respondees found **Motivation** to be the most difficult part about self-studying and personal projects (63% of respondees), followed by the **ability to ask people questions** (32% of respondees).
 
 It seems like something similar to a drop-in tutoring center for folks outside of school might address both of these problems! (Plus, this format requires much less prep for me in comparison to creating and running a course 😄)
 
