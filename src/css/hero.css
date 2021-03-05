@@ -5,6 +5,13 @@
 
 .hero h1 {
   font-size: var(--text-5xl);
+  background-color: #f1f1fd;
+  display: inline;
+}
+
+.hero h2 {
+  background-color: lightcyan;
+  display: inline-block;
 }
 
 .hero p {

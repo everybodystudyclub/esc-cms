@@ -88,8 +88,13 @@ ol ol {
 }
 
 ul {
-  list-style-type: square;
-  list-style-position: inside;
+  list-style: "* " outside none;
+  margin-left: 1em;
+}
+
+li {
+  font-size: 1.2em;
+  margin: 1em;
 }
 
 b,

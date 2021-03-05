@@ -5,32 +5,51 @@ title: "esc"
 
 # Everybody Study Club
 
-Hello, it's your friend [vrk](https://github.com/vrk). I want to teach people how to build things on the web.
+Hello, it's your friend [vrk](https://github.com/vrk). I want to tinker and experiment with the format of online learning.
 
-I taught a [web programming course](https://github.com/yayinternet/cs193x-course) a few years ago, and for a while I've wanted to make a free online version of it. This year I might finally do it.
+This is an experimental club for folks who are out of school who want to get better at sticking to **side projects** and **independent study**. (At least, that's our current focus!)
 
-If I do, then I also want to tinker and experiment with the format of online learning. Few of the current models work well for anyone, so let's see if there aren't ways we can improve upon them.
+We're going to launch a virtual study club on Discord sometime in March 2021! _(...or maybe April)_
 
-Would you be interested in taking my class or class-like thing? Want to help me with it? Or just want to hear updates?
+Interested in joining? Want to help me run i? Or just want to hear updates?
 
-✨ [Fill out my interest form](https://forms.gle/TBnHtxim8517Q8jT9)! ✨
+✨ [Fill out the interest form](https://forms.gle/TBnHtxim8517Q8jT9)! ✨
 
-I'd love to hear from you! You can expect to hear from me in Feb or March 2021.
+You'll get general updates on the project and will be notified when the Discord is ready to join.
 
 ---
 
-## A little more
+## Coming March 2021: Everybody Study Hall on Discord
 
-Self-studying is really hard. There's a sea of educational resources out there, but it's well-known that e.g. MOOCs have a [poor completion rate](https://www.forbes.com/sites/dereknewton/2020/06/21/the-depressing-and-disheartening-news-about-moocs/?sh=3c7981cb76ed). It's hard to find the time and it's hard to stay motivated.
+For the first version of Everybody Study Club, I want to try to emulate a **Drop-In Tutoring Center** with a few tweaks:
 
-As a quarantine pastime, I started studying Korean again. It's been going surprisingly well, and I think it's because I've stumbled upon some really great self-studying techniques from this community.
+- This will be an **online study hall** for people who are _not_ students, but are professional working folk wanting to study indepednetly or do side projects.
+- We'll have a study hall schedule, which will be the time to come on the Discord and work on stuff while lurking on the text or voice chat.
+- During study hall, people will be able to ask questions in Discord to "TAs," i.e. experts on the subject you're studying
+- For the "TAs", we will hang and answer questions, but during downtime, we'll also work on whatever we'd like.
 
-Language learning best practices have changed a bit, at least since I last studied seriously. The idea that one must be physically "immersed" in a country to become fluent in the language is now a bit out of date, and instead there is an emphasis on **slow and steady** learning.
+We're going to try this out **on [Discord](http://discord.com/)** to start! We'll probably make this a ~5 week experiement, after which we'll get feedback and see if we want to continue or make changes.
 
-There is also an emphasis on **small community** within the larger community. Language partners, community tutors, classes of 5-10 people are all strongly encouraged. (You never see 100-person lecture sizes for a Spanish class.)
+Sound interesting? 🌟 [Fill out the interest form](https://forms.gle/TBnHtxim8517Q8jT9) 🌟 and we'll email you when the Discord is ready to join!!
 
-As a result, I've been studying Korean consistently since April 2020, keeping up with it even with a very demanding job. This is easily the longest I've ever stuck with a learning endeavor outside of school or work demands. Surely quarantine has something to do with it, but I don't actually think it's the main factor. I think it's the approach.
+---
 
-I recently left my very demanding job and I've got a few months of free time before my next gig. I'd love to spend of that time tinkering with online learning, and see whether I can incorporate some of these techniques (and others!) in some sort of class-like offering that teaches people how to build things on the web. It might work, it might not. Either way, I want to try it out.
+## Why a Study Hall approach?
 
-If that sounds at all interesting to you, even just as a casual observer, please [fill out the interest form](https://forms.gle/TBnHtxim8517Q8jT9)! Filling out the form in no way commits you to anything.
+IRL, Drop-in Tutoring Centers are great for both students and TAs alike.
+
+When I was a student, it was nice to do my homework in the drop-in tutoring centers. It was easy to focus in a productive environment, I could make friends with other students in the tutoring center, and I knew if I needed help, I could get help right away from a friendly TA.
+
+When I was a TA working at a drop-in tutoring center, it was really fulfilling work that also required very little prep ahead of time. It was also low-pressure because I never worked alone, so if if I couldn't answer a student's question, I could always ask another tutor for help. On top of that, on slow days, I could use that time to do my own homework, or read a book, or chat with the other tutors.
+
+Based on the initial response to the esc interest form, about 63% of respondees find **Motivation** to be the most difficult part about self-studying and personal projects, followed by the **ability to ask people questions** (32% of respondees).
+
+It seems like something similar to a drop-in tutoring center for folks outside of school might address both of these problems! (Plus, this format requires much less prep for me in comparison to creating and running a course 😄)
+
+## Why Discord?
+
+I'd like to be able to hold the study club online, but oof Zoom can be such a stressful space, especially a Zoom full of people who don't know each other very well!
+
+I've really been impressed with Discord and how well it's worked for communities like [TTMIK](https://talktomeinkorean.com/). It also looks like some professors have also used [Discord for office hours](https://profteacher.com/2021/01/05/setting-up-discord-for-office-hours/), utilizing both the text chat and voice chat features. Discord is also free!
+
+It seems like a good platform to start with! We'll give Discord a try for a month or two and then we can reassess.
